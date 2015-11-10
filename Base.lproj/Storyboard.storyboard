@@ -92,10 +92,6 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ib1-o7-TTV">
                                 <rect key="frame" x="0.0" y="0.0" width="300" height="300"/>
                                 <subviews>
-                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4fb-VV-5eI">
-                                        <rect key="frame" x="0.0" y="0.0" width="46" height="30"/>
-                                        <state key="normal" title="Button"/>
-                                    </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Landscape" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1bI-g7-GCR">
                                         <rect key="frame" x="85.5" y="135" width="130.5" height="29"/>
                                         <constraints>
@@ -107,8 +103,8 @@
                                         <nil key="highlightedColor"/>
                                         <variation key="default">
                                             <mask key="constraints">
-                                                <exclude reference="kBd-4D-seJ"/>
                                                 <exclude reference="9qu-oV-ISE"/>
+                                                <exclude reference="kBd-4D-seJ"/>
                                             </mask>
                                         </variation>
                                     </label>
